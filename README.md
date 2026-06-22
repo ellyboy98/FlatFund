@@ -43,7 +43,13 @@ Each household creates a shared **house group**. Housemates join using their ema
 
 ## 🛠 Tech Stack
 
-> To be decided — contributions and suggestions welcome!
+| Layer | Technology |
+|---|---|
+| Frontend | [Vue.js](https://vuejs.org/) |
+| Backend | [Laravel (PHP)](https://laravel.com/) |
+| Database | MySQL |
+| UI Framework | [Bootstrap](https://getbootstrap.com/) |
+| Hosting | TBD |
 
 ---
 
