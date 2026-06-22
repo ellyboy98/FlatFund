@@ -53,6 +53,12 @@ Each household creates a shared **house group**. Housemates join using their ema
 
 ---
 
+### Why this stack?
+- **Vue.js** — lightweight, reactive frontend that pairs cleanly with Laravel's API
+- **Laravel** — batteries-included PHP framework with built-in auth, routing, and ORM (Eloquent)
+- **MySQL** — reliable relational database, perfect for tracking users, groups, and transactions
+- **Bootstrap** — fast, responsive UI components out of the box
+
 ## 🚀 Status
 
 > **Early development** — web app first, mobile to follow.
