@@ -55,8 +55,13 @@ Each household creates a shared **house group**. Housemates join using their ema
 
 ## 🤝 Contributing
 
-Pull requests are welcome! If you'd like to contribute, please:
+The contributers for this project are:
 
+1. Professor Fiqri
+2. TS Izzat
+3. Elden Lord Naim
+
+## Step to pull
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature`)
 3. Commit your changes (`git commit -m 'Add your feature'`)
